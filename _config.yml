@@ -1,0 +1,72 @@
+# Sets basic properties of the site, such as where various files can be found.
+source: .
+destination: ./_site
+plugins: ./_plugins
+layouts: ./_layouts
+include: ['.htaccess']
+exclude: []
+keep_filte: ['.git','.svn']
+timezone: nil
+
+future: true
+show_drafts: nil
+limit_posts: 0
+pygments: true
+
+relative_permalinks: true
+
+permalink: date
+paginate_path: 'page:num'
+
+# Specifies the markdown language to be used.
+markdown: maruku
+markdown_ext: markdown, mkd, mkdn, md
+textile_ext: textile
+
+excerpt_separator: "\n\n"
+
+# Sets properties related to URLs
+safe: false
+host: 0.0.0.0
+port: 4000
+baseurl: /
+url: http://www.unm.edu/~tscholten
+lsi: false
+
+# Sets properties related to the markdown languages maruku and kramdown
+maruku:
+use_tex: true
+use_divs: true
+png_engine: blahtex
+png_dir: images/latex
+png_url: /images/latex
+
+kramdown:
+auto_ids: true
+footnote_nr: 1
+entity_output: as_char
+toc_levels: 1..6
+smart_quotes: lsquo, rsquo, ldquo, rdquo
+use_coderay: false
+
+rdiscount:
+extensions: []
+
+redcarpet:
+extensions: []
+
+redcloth:
+hard_breaks: true
+
+coderay:
+coderay_wrap: div
+coderay_line_numbers: inline
+coderay_line_numbers_start: 1
+coderay_tab_width: 4
+coderay_bold_every: 10
+coderay_css: style
+
+
+
+
+
