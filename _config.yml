@@ -27,10 +27,8 @@ excerpt_separator: "\n\n"
 
 # Sets properties related to URLs
 safe: false
-host: 0.0.0.0
 port: 4000
 baseurl: /
-url: http://www.unm.edu/~tscholten
 lsi: false
 
 # Sets properties related to the markdown languages maruku and kramdown

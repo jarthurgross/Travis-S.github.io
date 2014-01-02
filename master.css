@@ -15,15 +15,14 @@ p.centered {
 
 .wrapper {
 	min-height:100%;
-	height:100%;
 	height:auto;
-	width:100%;
 	position:absolute;
-	background:black;
+	background: #2F4F4F;
+	margin: 0 auto -4em;
 }
 
 #header {
-	padding: 3px;
+	padding: 10px;
 	text-align: center;
 	height: auto;
 	color: #ececec;
@@ -74,32 +73,33 @@ a:hover {
 }
 
 #content {
-	padding: 10px;
-	height:100%;
+	padding: 25px;
 	height:auto;
+	width:auto;
 	color: #ececec;
-	font: 16px/1.5 veranda, helvetica-neue, helvetica, arial, san-serif;
+	font: 18px/1.5 veranda, helvetica-neue, helvetica, arial, san-serif;
 	background:#2F4F4F;
 }
 
 .push {
 	height: 4em;
-	background: 2F4F4F;
+	background:  #2F4F4F;
 }
 
 .footer {
 	position: absolute;
 	bottom: 0;
-	padding-top: 5px;
-	padding-bottom: 3px;
-	padding-left: 10px;
-	padding-right: 10px;
+	width:auto;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	padding-left: 25px;
+	padding-right: 25px;
 	text-align: left;
 	color: #ececec;
-	font: 14px/1.5 veranda, helvetica-neue, helvetica, arial, san-serif;
+	font: 16px/1.5 veranda, helvetica-neue, helvetica, arial, san-serif;
 	background: #2F4F4F;
 	border-top-style: solid;
-	border-width: medium;
+	border-right-style: solid;
 	border-color: #000066;
 }
 
