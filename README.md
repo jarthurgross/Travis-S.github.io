@@ -1,7 +1,5 @@
-personal-website (master)
-================
-
-This branch is the one to be uploaded to the UNM servers. It should only be modified through pushes/pulls with development branches.
+personal-website
+============
 
 My personal [website](http://www.unm.edu/~tscholten). Currently hosted on the UNM servers. I may be moving soon, though.
 
