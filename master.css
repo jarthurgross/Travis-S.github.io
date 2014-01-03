@@ -5,8 +5,8 @@
 html, body {
 	margin:0;
 	padding:0;
-	height:100%
-	width:100%
+	height:100%;
+	width:100%;
 }
 
 p.centered {
@@ -14,22 +14,22 @@ p.centered {
 }
 
 .wrapper {
-	min-height:100%;
 	height:auto;
+	min-width:100%;
 	position:absolute;
 	background: #2F4F4F;
 	margin: 0 auto -4em;
 }
 
 #header {
-	padding: 10px;
+	padding: 20px;
 	text-align: center;
 	height: auto;
 	color: #ececec;
 	background: #2F4F4F;
 }
 
-#nq {
+#navbar {
 	background:#2F4F4F;
 	height:35px;
 	border-top-style: solid;
@@ -74,8 +74,6 @@ a:hover {
 
 #content {
 	padding: 25px;
-	height:auto;
-	width:auto;
 	color: #ececec;
 	font: 18px/1.5 veranda, helvetica-neue, helvetica, arial, san-serif;
 	background:#2F4F4F;
@@ -89,7 +87,6 @@ a:hover {
 .footer {
 	position: absolute;
 	bottom: 0;
-	width:auto;
 	padding-top: 10px;
 	padding-bottom: 15px;
 	padding-left: 25px;
