@@ -20,13 +20,14 @@ html, body {
 	background: #2F4F4F;
 	font: normal 230% veranda, helvetica-neue, helvetica, arial, serif;
 	color: #ececec;
+	text-align: center;
 	letter-spacing: 0.2em;
 	padding: 15px 10px 15px 60px;
 }
 
 .navbar {
-	background: orange;
-	font: veranda, helvetica-neue, helvetica, arial, serif;
+	background: #2F4F4F;
+	height:45px;
 	border-top-style: solid;
 	border-bottom-style: solid;
 	border-width: medium;
@@ -35,7 +36,8 @@ html, body {
 
 nav {
 	margin-left: 0;
-	font-size: 1.75em;
+	font-size: 30px;
+	font-family: veranda, helvetica-neue, helvetica, arial, sans-serif;
 }
 
 nav ul, ul.entries {
@@ -70,7 +72,7 @@ a:hover {
 	width: 25%;
 	float:right;
 	background:green;
-	font: 20px/1.5 veranda; helvetica-neue, helvetica, arial, san-serif;
+	font: 25px/1.5 veranda, helvetica-neue, helvetica, arial, sans-serif;
 	color: #ececec;
 }
 
@@ -78,7 +80,7 @@ a:hover {
 	float:left;
 	width: 75%;
 	color: #ececec;
-	font: 20px/1.5 veranda, helvetica-neue, helvetica, arial, san-serif;
+	font: 20px/1.5 veranda, helvetica-neue, helvetica, arial, sans-serif;
 	text-align: left;
 	background:blue;
 }
