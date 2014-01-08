@@ -13,12 +13,12 @@
 <div class="wrapper">
 
 <!--Specifies the Banner of the website. This is visible on all pages -->
-<div id="header">
+<div class="banner">
 	<h1>Website of Travis S</h1>
 </div>
 
 <!-- Navigation Bar goes here. This is visible on all pages. -->
-<div id="navbar">
+<div class="navbar">
 	<nav role="navigation">
 		<ul>
 			<li> <a href="index.html">Home</a></li>
@@ -26,13 +26,23 @@
 			<li> <a href="musings.html">Musings</a></li>
 			<li> <a href="research.html">Research</a></li>
 			<li> <a href="teaching.html">Teaching</a></li>
-	</ul></nav>
+		</ul></nav>
 </div>
 
 <!-- Webpage content goes here -->
-<div id="content">
+<div class="content">
+<div class="pad">
 	{{ content }}
-</div>
+</div></div>
+<!-- Right sidebar content goes here -->
+<div class="sideright">
+<div class="pad">
+	Reaching Me: <br />
+	<a href="https://github.com/Travis-S" target="_blank">GitHub</a><br />
+	<a href="http://www.google.com/+TScholten/about" target="_blank">Google Plus</a><br />
+	<a href="http://www.mendeley.com/profiles/travis-s1/" target="_blank">Mendeley profile</a><br />
+	<a href="https://twitter.com/Travis_Sch" target="_blank">Twitter</a>
+</div></div>
 
 <!-- This div "push" is used to force the footer to the bottom of the page. -->
 <div class="push"></div>

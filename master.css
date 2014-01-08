@@ -9,29 +9,24 @@ html, body {
 	width:100%;
 }
 
-p.centered {
-	text-align:center;
-}
-
 .wrapper {
-	height:auto;
-	min-width:100%;
+	min-height: 100%;
+	width: 100%;
 	position:absolute;
-	background: #2F4F4F;
-	margin: 0 auto -4em;
+	background: grey;
 }
 
-#header {
-	padding: 20px;
-	text-align: center;
-	height: auto;
+.banner {
+	background: #2F4F4F;
+	font: normal 230% veranda, helvetica-neue, helvetica, arial, serif;
 	color: #ececec;
-	background: #2F4F4F;
+	letter-spacing: 0.2em;
+	padding: 15px 10px 15px 60px;
 }
 
-#navbar {
-	background:#2F4F4F;
-	height:35px;
+.navbar {
+	background: orange;
+	font: veranda, helvetica-neue, helvetica, arial, serif;
 	border-top-style: solid;
 	border-bottom-style: solid;
 	border-width: medium;
@@ -39,8 +34,8 @@ p.centered {
 }
 
 nav {
-	margin-left:5px;
-	font-size:1.5em;
+	margin-left: 0;
+	font-size: 1.75em;
 }
 
 nav ul, ul.entries {
@@ -60,7 +55,6 @@ ul {
 
 ul.entries li {
 	position:relative;
-	width: 600px;
 }
 
 a {
@@ -72,41 +66,49 @@ a:hover {
 	text-decoration:underline
 }
 
-#content {
-	padding: 25px;
+.sideright {
+	width: 25%;
+	float:right;
+	background:green;
+	font: 20px/1.5 veranda; helvetica-neue, helvetica, arial, san-serif;
 	color: #ececec;
-	font: 18px/1.5 veranda, helvetica-neue, helvetica, arial, san-serif;
-	background:#2F4F4F;
+}
+
+.content {
+	float:left;
+	width: 75%;
+	color: #ececec;
+	font: 20px/1.5 veranda, helvetica-neue, helvetica, arial, san-serif;
+	text-align: left;
+	background:blue;
 }
 
 .push {
-	height: 4em;
-	background:  #2F4F4F;
+	height: 100px;
+	width: 100px;
+	/*background:  red;*/
+}
+
+.pad {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
 }
 
 .footer {
 	position: absolute;
 	bottom: 0;
-	padding-top: 10px;
-	padding-bottom: 15px;
-	padding-left: 25px;
-	padding-right: 25px;
+	padding-top: 20px;
+	padding-bottom: 25px;
+	padding-left: 10px;
+	padding-right: 10px;
 	text-align: left;
 	color: #ececec;
-	font: 16px/1.5 veranda, helvetica-neue, helvetica, arial, san-serif;
+	font: 18px/1.5 veranda, helvetica-neue, helvetica, arial, san-serif;
 	background: #2F4F4F;
 	border-top-style: solid;
 	border-right-style: solid;
 	border-color: #000066;
-}
-
-table.center {
-	margin-left: auto;
-	margin-right: auto;
-}
-
-table td.padded {
-	padding-right: 15px;
 }
 
 .postlist {
