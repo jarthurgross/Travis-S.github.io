@@ -13,7 +13,7 @@ html, body {
 #wrapper {
 	width:100%;
 	height:100%;
-	background-color: purple;
+	background-color:  #2F4F4F;
 }
 
 #banner {
@@ -73,7 +73,7 @@ a:hover {
 #main {
 	float:left;
 	width: 100%;
-	background-color:  yellow;
+	background-color:   #2F4F4F;
 	/*border: 1em solid maroon;*/
 }
 
