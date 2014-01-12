@@ -1,46 +1,44 @@
-* {
-	margin: 0
-}
+/*The purpose of this CSS file is to provide style formatting for my personal web page.*/
 
+
+/*Makes the html and body of the page essentially expand to fill the browser window.*/
 html, body {
-	margin:0;
-	padding:0;
-	height:100%
-	width:100%
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	padding: 0;
 }
 
-p.centered {
-	text-align:center;
+/*Properties of the various div containers*/
+#wrapper {
+	width:100%;
+	height:100%;
+	background-color: purple;
 }
 
-.wrapper {
-	min-height:100%;
-	height:auto;
-	position:absolute;
-	background: #2F4F4F;
-	margin: 0 auto -4em;
-}
-
-#header {
-	padding: 10px;
-	text-align: center;
-	height: auto;
+#banner {
+	background-color: #2F4F4F;
+	font: normal 230% veranda, helvetica-neue, helvetica, arial, sans-serif;
 	color: #ececec;
-	background: #2F4F4F;
-}
+	text-align: center;
+	letter-spacing: 0.2em;
+	padding: 10px 5px 10px 5px;
+	/*border: 1em solid black;*/
+	}
 
-#nq {
-	background:#2F4F4F;
-	height:35px;
-	border-top-style: solid;
-	border-bottom-style: solid;
-	border-width: medium;
-	border-color: #000066;
+/*Sets properties related to the navigation bar.*/
+#navbar {
+	border-top: .5em solid #000066;
+	border-bottom: .5em solid #000066;
+	color: #ececec;
+	height:5em;
+	background-color: #2F4F4F;
 }
 
 nav {
-	margin-left:5px;
-	font-size:1.5em;
+	margin-left: 0;
+	font-size: 3em;
+	font-family: veranda, helvetica-neue, helvetica, arial, sans-serif;
 }
 
 nav ul, ul.entries {
@@ -60,7 +58,6 @@ ul {
 
 ul.entries li {
 	position:relative;
-	width: 600px;
 }
 
 a {
@@ -72,50 +69,63 @@ a:hover {
 	text-decoration:underline
 }
 
+/*The main width should be set to 100% minus the border width*/
+#main {
+	float:left;
+	width: 100%;
+	background-color:  yellow;
+	/*border: 1em solid maroon;*/
+}
+
+/*The content and side divs float within the main div*/
+/*The content div takes up width% of the main div's width, and similarly
+  for the side div*/
 #content {
-	padding: 25px;
-	height:auto;
-	width:auto;
+	float:left;
+	width:70%;
+	font: 2.5em veranda, helvetica-neue, helvetica, arial, sans-serif;
 	color: #ececec;
-	font: 18px/1.5 veranda, helvetica-neue, helvetica, arial, san-serif;
-	background:#2F4F4F;
+	border: 1em solid #2F4F4F;
+	background-color: #2F4F4F;
 }
 
-.push {
-	height: 4em;
-	background:  #2F4F4F;
-}
-
-.footer {
-	position: absolute;
-	bottom: 0;
-	width:auto;
-	padding-top: 10px;
-	padding-bottom: 15px;
-	padding-left: 25px;
-	padding-right: 25px;
+#sideright {
 	text-align: left;
+	float: right;
+	width: 22%;
+	border: 1em solid #2F4F4F;
+	background-color:  #2F4F4F;
+	font: 2.5em veranda, helvetica-neue, helvetica, arial, sans-serif;
 	color: #ececec;
-	font: 16px/1.5 veranda, helvetica-neue, helvetica, arial, san-serif;
-	background: #2F4F4F;
-	border-top-style: solid;
-	border-right-style: solid;
-	border-color: #000066;
 }
 
-table.center {
-	margin-left: auto;
-	margin-right: auto;
+#push {
+	clear: left;
+	height:15em;
+	background-color: #2F4F4F;
+	/*border: 1em solid #69b;*/
 }
 
-table td.padded {
-	padding-right: 15px;
+
+#footer {
+	border-top: .5em solid #000066;
+	background-color: #2F4F4F;
+	font: 2.25em veranda, helvetica-neue, helvetica, arial, san-serif;
+	color: #ececec;
+	padding-left: 1em;
+	padding-top: .5em;
+	padding-bottom: .5em;
 }
 
-.postlist {
-	list-style-type: none;
-	margin-left: auto;
-	margin-right: auto;
-}
+
+
+
+
+
+
+
+
+
+
 
 

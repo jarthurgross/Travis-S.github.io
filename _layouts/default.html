@@ -3,45 +3,66 @@
 <html>
 <head>
 	<meta charset=utf-8 />
-	<title> {{ page.title }}{% if page.title %} | {% endif %} Travis S</title>
+	<title> {{ page.title }}{% if page.title %} | {% endif %} TS</title>
 	<link rel="stylesheet" href="master.css" />
 	<link rel="icon" type="image/ico" href="images/favicon.ico"/>
 </head>
 <body>
+
 <!--Specifies a wrapper around the entire page -->
-<div class="wrapper">
+<div id="wrapper">
+
 <!--Specifies the Banner of the website. This is visible on all pages -->
-<div id="header">
-<h1>Website of Travis S</h1>
+<div id="banner">
+	<h1>Website of Travis S</h1>
 </div>
 
 <!-- Navigation Bar goes here. This is visible on all pages. -->
-<div id="nq">
-<nav role="navigation">
-<ul>
-	<li> <a href="index.html">Home</a></li>
-	<li> <a href="contact.html">Contact</a></li>
-	<li> <a href="musings.html">Musings</a></li>
-	<li> <a href="research.html">Research</a></li>
-	<li> <a href="teaching.html">Teaching</a></li>
-</ul>
-</nav>
+<div id="navbar">
+	<nav role="navigation">
+		<ul>
+			<li> <a href="index.html">Home</a></li>
+			<li> <a href="contact.html">Contact</a></li>
+			<li> <a href="musings.html">Musings</a></li>
+			<li> <a href="research.html">Research</a></li>
+			<li> <a href="teaching.html">Teaching</a></li>
+		</ul></nav>
 </div>
 
+<!-- The "main" div holds the content and the sidebar -->
+<div id="main">
 <!-- Webpage content goes here -->
 <div id="content">
-{{ content }}
+	{{ content }}
+</div>
+<!-- Right sidebar content goes here -->
+<div id="sideright">
+	<p>
+	Reaching Me: <br />
+	<a href="https://github.com/Travis-S" target="_blank">GitHub</a><br />
+	<a href="http://www.google.com/+TScholten/about" target="_blank">Google Plus</a><br />
+	<a href="http://www.mendeley.com/profiles/travis-s1/" target="_blank">Mendeley profile</a><br />
+	<a href="https://twitter.com/Travis_Sch" target="_blank">Twitter</a>
+	</p>
+</div>
 </div>
 
 <!-- This div "push" is used to force the footer to the bottom of the page. -->
-<div class="push"></div>
+<div id="push"></div>
 
 <!-- Footer content goes here. This is visible on all pages. -->
-<div class="footer">
-<!--Link to PandA -->
-I am affiliated with the <a href="http://physics.unm.edu/" target="_blank">Physics and Astronomy Department</a> at the <a href="http://unm.edu" target="_blank">University of New Mexico</a><br/>
-<! -- Creative Commons License -->
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">Creative Commons Attribution-NonCommercial 4.0 International License.</a>
-</div></div>
-</body>
-</html>
+<div id="footer">
+	<!--Link to PandA -->
+	I am affiliated with the <a href="http://physics.unm.edu/" target="_blank">Physics and Astronomy Department</a> at the <a 	  href="http://unm.edu" target="_blank">University of New Mexico</a><br/>
+	<!--Creative Commons License -->
+	This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" 		target="_blank">Creative Commons Attribution-NonCommercial 4.0 International License.</a>
+</div></div></body></html>
+
+
+
+
+
+
+
+
+
