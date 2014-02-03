@@ -1,5 +1,5 @@
 personal-website
-================
+============
 
 My personal [website](http://www.unm.edu/~tscholten). Currently hosted on the UNM servers. I may be moving soon, though.
 
