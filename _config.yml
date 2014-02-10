@@ -18,6 +18,10 @@ relative_permalinks: true
 permalink: date
 paginate_path: 'page:num'
 
+#Specifies metadata
+author: Travis Scholten
+description: Personal webpage of Travis Scholten
+
 # Specifies the markdown language to be used.
 markdown: maruku
 markdown_ext: markdown, mkd, mkdn, md
