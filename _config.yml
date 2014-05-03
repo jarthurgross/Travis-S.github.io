@@ -21,6 +21,7 @@ paginate_path: 'page:num'
 #Specifies metadata
 author: Travis Scholten
 description: Personal webpage of Travis Scholten
+keywords: Travis Scholten, quantum computation, quantum information
 
 # Specifies the markdown language to be used.
 markdown: maruku
