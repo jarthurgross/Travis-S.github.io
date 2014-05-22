@@ -3,10 +3,11 @@ layout: default
 title: Research
 ---
 <section class="content">
-My research currently takes place through the <a href="http://www.cquic.org" target="_blank">Center for Quantum Information and Control</a> at the <a href="http://www.unm.edu" target="_blank">University of New Mexico</a>. Funding for my work is provided by <a href="http://www.sandia.gov" target="_blank">Sandia National Laboratories</a>.<br/><br/> 
+My research currently takes place through the [Center for Quantum Information and Control](http://www.cquic.org) at the <a href="http://www.unm.edu" target="_blank">University of New Mexico</a>. Funding for my work is provided by <a href="http://www.sandia.gov" target="_blank">Sandia National Laboratories</a>.<br/><br/> 
 
 As far as problems are concerned, I have been thinking about quantum information and computation. In fact, I think this subject is probably the only one I have given any consideration to whatsoever, although finance and economics ought to be mentioned.<br/><br/>
 
+#Informal Description#
 Recently (22 May 2014), I used the <a href="http://splasho.com/upgoer5" target="_blank">Up-Goer 5</a> web application to help me describe my research using only the 1000 most common words in the English language. I have posted a copy of that text below:<br/><br/>
 
 In my work, I think about computers. But not just any type of computer. It is a very small computer. How small? Really small. Smaller than your phone, and smaller than the pieces in your phone. Since they are so small, they are hard to work with. Just think if you had to build a tiny computer!<br/><br/>
