@@ -6,14 +6,14 @@
 	<meta name="description" content="{{site.description}}">
     <meta name="keywords" content="{{site.keywords}}">
 	<title> {{ page.title }}{% if page.title %} | {% endif %} TS</title>
-	<link rel="stylesheet" href="master.css" />
-	<link rel="icon" type="image/ico" href="images/favicon.ico"/>
+	<link rel="stylesheet" href="/master.css">
+	<link rel="icon" type="image/ico" href="/images/favicon.ico">
 </head>
 <body>
 <!--Specifies a wrapper around the entire page -->
 <div id="wrapper">
 
-	<!--Specifies a sidebar for ease -->
+	<!--Specifies a left sidebar for ease -->
 	<div class="side"></div>
 
 	<!-- The main div holds the banner, navigation bar, content, a sidebar, and the footer-->
@@ -26,43 +26,14 @@
 
 		<!-- Navigation Bar goes here. -->
 		<div id="navbar">
-			<nav role="navigation">
-				<ul>
-					<li> <a href="index.html">Home</a></li>
-					<li> <a href="contact.html">Contact</a></li>
-					<li> <a href="musings.html">Musings</a></li>
-					<li> <a href="research.html">Research</a></li>
-					<li> <a href="teaching.html">Teaching</a></li>
-				</ul></nav>
-            <div id="social">
-            <!-- Google Plus Link -->
-            <a href="https://plus.google.com/104928027598375464198?prsrc=3"
-   rel="publisher" target="_blank" style="text-decoration:none;">
-<img src="//ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+" style="border:0;width:32px;height:32px;"/>
-</a>
-            <!-- Twitter Link -->
-            <a href="https://twitter.com/Travis_Sch" target="_blank" style="text-decoration:none;">
-<img src="images/twitter.png" alt="Twitter" style="border:0;width:32px;height:32px;"/>
-</a>
-            <!-- Mendeley Link -->
-            <a href="http://www.mendeley.com/profiles/travis-s1/"
-  target="_blank" style="text-decoration:none;">
-<img src="images/mendeley.jpg" alt="Mendeley" style="border:0;width:32px;height:32px;"/>
-</a>
-            <!-- GitHub Link -->
-            <a href="https://github.com/Travis-S" target="_blank" style="text-decoration:none;">
-<img src="images/Octocat.jpg" alt="GitHub" style="border:0;width:32px;height:32px;"/>
-</a>
-            <!-- Google Calendar Link -->
-            <a href="https://www.google.com/calendar/embed?src=travis.scholten%40gmail.com&amp;ctz=America/Denver"
-  target="_blank" style="text-decoration:none;">
-<img src="images/calendar.png" alt="Calendar" style="border:0;width:32px;height:32px;"/>
-</a>
-            </div>
+        {% include header.html %}
 		</div>
 
 		<!-- Webpage content goes here -->
-		<div id="content">{{ content }}</div>
+		<div id="content">
+        <p>{% if page.date %}{{ page.date | date_to_string}}{% endif %}</p> <!--If page has a Jekyll page.date property, it is displayed. Otherwise, we write an empty paragraph-->
+        {{ content }}
+        </div>
 
 		<!-- Right sidebar content goes here -->
 		<div id="sideright"></div>
@@ -71,12 +42,7 @@
 		<div id="push"></div>
 
 		<!-- Footer content goes here. -->
-		<div id="footer">
-			<!--Link to PandA -->
-			I am affiliated with the <a href="http://www.cquic.org" target="_blank">Center for Quantum Information and Control</a> at the <a href="http://physics.unm.edu/" target="_blank">Physics and Astronomy Department</a> of the <a href="http://unm.edu" target="_blank">University of New Mexico</a><br/>
-			<!--Creative Commons License -->
-			The creative content of this page is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">Creative 				Commons Attribution-NonCommercial 4.0 International License.</a>
-		</div>
+		<div id="footer">{% include footer.html %}</div>
 	</div>
 
 	<!--Right sidebar for ease-->
