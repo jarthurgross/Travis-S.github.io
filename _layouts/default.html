@@ -31,6 +31,7 @@
 
 		<!-- Webpage content goes here -->
 		<div id="content">
+        <h2>{% if page.title %}{{ page.title }}{% endif %}</h2> <!--If page has Jekyll page.title property, it is displayed.-->
         <p>{% if page.date %}{{ page.date | date_to_string}}{% endif %}</p> <!--If page has a Jekyll page.date property, it is displayed. Otherwise, we write an empty paragraph-->
         {{ content }}
         </div>
