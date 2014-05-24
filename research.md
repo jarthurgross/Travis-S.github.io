@@ -10,7 +10,7 @@ As far as problems are concerned, I have been thinking about quantum information
 Recently (22 May 2014), I used the [Up-Goer 5](http://splasho.com/upgoer5) web application to help me describe my research using only the 1000 most common words in the English language. I have posted a copy of that text below:
 
 <blockquote>
-{% include description.html %}
+{% include description.md %}
 </blockquote>
 
 *Disclaimer*: Instead of ''computer'', I really should have used ''information processor''. I am _not_ thinking about problems related to full-fledged quantum computation.
