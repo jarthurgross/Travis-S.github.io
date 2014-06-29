@@ -31,7 +31,8 @@ excerpt_separator: "\n\n"
 # Sets properties related to URLs
 safe: false
 port: 4000
-baseurl: www.unm.edu/~tscholten/
+baseurl: www.unm.edu/~tscholten
+url: www.unm.edu/~tscholten
 lsi: false
 
 coderay:

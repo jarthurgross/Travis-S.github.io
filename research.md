@@ -3,19 +3,19 @@ layout: default
 title: Research
 ---
 <section class="content">
-My research currently takes place through the [Center for Quantum Information and Control](http://www.cquic.org) at the [University of New Mexico](http://www.unm.edu). Funding for my work is provided by [Sandia National Laboratories](http://www.sandia.gov).
+My research currently takes place through the [Center for Quantum Information and Control](http://www.cquic.org) (CQuIC) at the [University of New Mexico](http://www.unm.edu).
 
+Projects
+=========
+
+* [qcircuit](https://github.com/CQuIC-GitHub/qcircuit): I am working on helping qcircuit be more accessible by the quantum information community.
+* [CQuIC](https://cquic-github.github.io/): Along with other students in CQuIC, I am working on developing a site for showcasing some of the work done by members of our group.
+* [My site](www.unm.edu/~tscholten): I am working to add content to this site.
+
+
+Problems
+==========
 As far as problems are concerned, I have been thinking about quantum information and computation. In fact, I think this subject is probably the only one I have given any consideration to whatsoever, although finance and economics ought to be mentioned.
-
-Recently (22 May 2014), I used the [Up-Goer 5](http://splasho.com/upgoer5) web application to help me describe my research using only the 1000 most common words in the English language. I have posted a copy of that text below:
-
-<blockquote>
-{% include description.md %}
-</blockquote>
-
-*Disclaimer*: Instead of ''computer'', I really should have used ''information processor''. I am _not_ thinking about problems related to full-fledged quantum computation.
-
-**A more formal description of my work**:
 
 Right now, I am mostly thinking about the use of _model selection_ criteria to assist experimentalists in the construction of quantum information processing devices. Much of this revolves around the problem of trying to determine what is actually inside the black box the experimentalist builds. In a related vein, I am keen to learn how to apply tools of statistical inference to other such problems. Along the way, I have been learning how to program in Python for the purposes of numerical investigations.
 

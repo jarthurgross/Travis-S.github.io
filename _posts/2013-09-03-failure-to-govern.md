@@ -3,7 +3,6 @@ layout: default
 title: "Failure to Govern"
 date: 2013-09-03
 ---
-
 Amid all the rancor in the media regarding President Obama's tendencies to hit the links and go on speaking tours, one aspect of his and Congress' governance does stand out:  they go through the motions of governing, without actually doing so. It is akin to a child who, unsure of how to be an adult, displays behaviors adults engage in, but who lacks the cognitive awareness and context of what it means to be an adult. Similarly, we elect our leaders to actually lead, to resolve difficult problems, to rule the people - yet instead, we find ourselves with a bunch of play-actors who do everything leaders are suppose to do, but fail to accomplish anything.
 
 We see a Congress disjoint and divisive, attempting to pass legislation using artificially created deadlines and timeframes, instead of working out their differences and getting bills passed. (Opponents of government might see this as a positive thing, but they may fail to appreciate that a certain modicum of legislation needs to be passed every year. Whether or not to establish a new federal program certainly deserves debate; whether or not we continue to fund preexisting programs is not.) 
@@ -21,6 +20,3 @@ Historically, we as a country have tried to strike a balance between homogeneity
 Such a society is not easy to maintain, particularly in the face of diverse and often conflicting worldviews. In order for it to succeed, every citizen had to be willing to subjugate their own opinions to the maxim ''I do not have the right to tell other people what to do.''. We as a society have failed in that regard. We now seem to believe that not only do we have the right to make others obey our code of morality, but that it is moral to use government to achieve this end.
 
 As Lincoln noted regarding houses and divisions thereof, the failures we witness in Washington are merely the symptoms of our own failures as private citizens. Until we recognize and address our own flaws, we will keep electing more of the same.
-
-
-A pdf copy of this post is available [here](http://www.unm.edu/~tscholten/ftg.pdf).
