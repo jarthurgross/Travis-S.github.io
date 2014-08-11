@@ -20,7 +20,7 @@ paginate_path: 'page:num'
 
 #Specifies metadata
 author: Travis Scholten
-description: Personal webpage of Travis Scholten
+description: Personal Webpage for Travis Scholten
 keywords: Travis Scholten, Quantum Computation, Quantum Information
 
 # Specifies the markdown language to be used.
@@ -31,8 +31,7 @@ excerpt_separator: "\n\n"
 # Sets properties related to URLs
 safe: false
 port: 4000
-baseurl: www.unm.edu/~tscholten
-url: www.unm.edu/~tscholten
+url: http://localhost:4000
 lsi: false
 
 coderay:

@@ -11,10 +11,8 @@ In 2011, I took a trip to Swizerland. Here are my [recollections](https://app.bo
 
 In an attempt to master the nuances of Jekyll, I have collected all the ''posts'' (if you can call them that!) I have written below.
 
-Notice 23 May 2014: I seem to have problems with the use of relative hyperlinking in Jekyll, and that is causing problems on the UNM servers. This will be addressed when I have time.
-
 <ul>
 {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{post.url}}">{{post.title}}  {{post.name}}</a></li>
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{relative}}{{post.url | remove_first: '/'}}">{{post.title}}  {{post.name}}</a></li>
 {% endfor %}
 </ul>
