@@ -1,5 +1,6 @@
 personal-website
 ============
+[![Build Status](https://travis-ci.org/Travis-S/personal-website.svg?branch=master)](https://travis-ci.org/Travis-S/personal-website)
 
 My personal [website](http://www.unm.edu/~tscholten).
 
