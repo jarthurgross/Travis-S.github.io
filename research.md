@@ -10,7 +10,7 @@ Projects
 
 * [qcircuit](https://github.com/CQuIC-GitHub/qcircuit): I am working on helping qcircuit be more accessible by the quantum information community.
 * [CQuIC](https://cquic-github.github.io/): Along with other students in CQuIC, I am working on developing a site for showcasing some of the work done by members of our group.
-* [My site]: I am working to add content to this site.
+* [My site](http:www.unm.edu/~tscholten): I am working to add content to this site.
 
 
 Problems
