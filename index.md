@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-Welcome to my home page. The point of this site, I suppose, is to serve as a central front for my online presence. Hence the social links above.
+Welcome to my home page. The point of this site, I suppose, is to serve as a central front for my online presence.
 
 In the process of setting up this site, I have been learning how to write HTML and CSS code, as well as how to use [Jekyll](http://jekyllrb.com/) to compile the site. I have put the source code for the site on my [GitHub page](https://github.com/Travis-S).
 
