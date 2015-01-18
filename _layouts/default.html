@@ -26,7 +26,7 @@
 <body>
 
 <div id="layout">
-    <!-- Menu toggle -->
+    <!-- Menu toggle -->    
     <a href="#menu" id="menuLink" class="menu-link">
         <!-- Hamburger icon -->
         <span></span>
@@ -34,26 +34,8 @@
 
     <div id="menu">
         <div class="pure-menu pure-menu-open">
-            {% include header.html %}
-        </div><br/>
-          On the Web:<br/>
-        <a href="https://plus.google.com/104928027598375464198?prsrc=3" target="_blank" style="text-decoration:none;"><img src="//ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+"/></a>
-
-        <a href="https://twitter.com/Travis_Sch" target="_blank" style="text-decoration:none;">
-        <img src="{{relative}}images/twitter.png" alt="Twitter" style="border:0;width:32px;height:32px;"/></a>
-
-        <a href="https://github.com/Travis-S" target="_blank" style="text-decoration:none;">
-        <img src="{{relative}}images/Octocat.jpg" alt="GitHub" style="border:0;width:32px;height:32px;"/>
-        </a><br/>
-
-        <a href="http://www.mendeley.com/profiles/travis-s1/"
-        target="_blank" style="text-decoration:none;">
-        <img src="{{relative}}images/mendeley.jpg" alt="Mendeley" style="border:0;width:32px;height:32px;"/>
-        </a>
-
-        <a href="https://www.google.com/calendar/embed?src=travis.scholten%40gmail.com&amp;ctz=America/Denver"
-        target="_blank" style="text-decoration:none;">
-        <img src="{{relative}}images/calendar.png" alt="Calendar" style="border:0;width:32px;height:32px;"/></a>
+            {% include sidebar.html %}
+        </div>
     </div>
 
     <div id="main">
@@ -63,8 +45,9 @@
         </div>
 
         <div class="content">
-        <p>{% if page.date %}{{ page.date | date_to_string}}{% endif %}</p> <!--If page has a Jekyll page.date property, it is displayed. Otherwise, we write an empty paragraph-->
-        <!-- Whatever content is specified -->
+        <!--If page has a Jekyll page.date property, it is displayed. Otherwise, we write an empty paragraph-->
+        <p>{% if page.date %}Dated: {{ page.date | date_to_string}}{% endif %}</p>
+        <!-- Whatever content is specified --> 
         {{content}}
         </div>
     </div>
