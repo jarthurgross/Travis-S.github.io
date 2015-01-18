@@ -2,6 +2,7 @@
 layout: default
 title: "Failure to Govern"
 date: 2013-09-03
+updated: 2013-09-03
 ---
 Amid all the rancor in the media regarding President Obama's tendencies to hit the links and go on speaking tours, one aspect of his and Congress' governance does stand out:  they go through the motions of governing, without actually doing so. It is akin to a child who, unsure of how to be an adult, displays behaviors adults engage in, but who lacks the cognitive awareness and context of what it means to be an adult. Similarly, we elect our leaders to actually lead, to resolve difficult problems, to rule the people - yet instead, we find ourselves with a bunch of play-actors who do everything leaders are suppose to do, but fail to accomplish anything.
 
@@ -9,7 +10,7 @@ We see a Congress disjoint and divisive, attempting to pass legislation using ar
 
 We see an Executive who bumbles and stumbles from one crisis to another, always promising that progress can be made, yet blaming Congress for inaction. To get what he wants, he retreats to Executive Orders and the promulgation of administrative rules. In essence, he governs through his will alone.
 
-As Rand noted in *Atlas Shrugged*,  one of the consequences of this style of governing is that the people and the politicians both come to see government simply as a club with which one bashes in the heads of one's opponents. Witness the anger on the part of the Republican party on the subject of Obamacare. Instead of trying to find a viable alternative, they threaten to use the mechanisms of government to simply  its various components.  Witness the willingness of Democratic Senate Majority Leader Harry Reid to blame Congressional Republicans for the fact the government has been using stop-gap spending measures for a while now, instead of admitting the Senate itself has not passed a budget in years. Blame and shame the other side, the mantra goes, and the people will should believe we are accomplishing something.
+As Rand noted in *Atlas Shrugged*,  one of the consequences of this style of governing is that the people and the politicians both come to see government simply as a club with which one bashes in the heads of one's opponents. Witness the anger on the part of the Republican party on the subject of Obamacare. Instead of trying to find a viable alternative, they threaten to use the mechanisms of government to simply abolish its various components.  Witness the willingness of Democratic Senate Majority Leader Harry Reid to blame Congressional Republicans for the fact the government has been using stop-gap spending measures for a while now, instead of admitting the Senate itself has not passed a budget in years. Blame and shame the other side, the mantra goes, and the people will should believe we are accomplishing something.
 
 Ultimately, that mantra is being proved wrong. People notice the acrimony in Washington, and they are disgusted. A certain amount of healthy and spirited discussion is certainly necessary in a democratic republic such as ours, and we should welcome politicians and political leaders who weigh in on the heavy issues of our time. We should not tolerate petulant name-calling and bashing. 
 
