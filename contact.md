@@ -3,14 +3,13 @@ layout: default
 title: Contact Information
 subtitle: Getting Ahold of Me
 ---
-<section class="content">
 **Email**
 
-My email address can be found via my [CV](https://app.box.com/s/l4qr7cmiixjvflub2l6t).
+The best address to use is travisscholten %at% gmail %dot% com. Alternatively, my academic email address is tscholten %at% unm %dot% edu.
 
-**PGP Public Key**
+**Phone**
 
-I am willing to use PGP encryption and signatures for my electronic communications. If you wish to encrypt messages to me, use the PGP key CED90D05. If you do not know how PGP encryption works, see [this page](http://www.pgpi.org/doc/pgpintro/).
+The best number is (605) 956-3141 (Google Voice).
 
 **Mailing Address**
 
@@ -22,6 +21,5 @@ Albuquerque, NM 87131-0001<br/>
 
 **Social Links**
 
-I am on some various social networks. Feel free to follow/add me if you want! I am always interested in finding new content to learn about. See the sidebar.
-
-</section>
+I am on some various social networks. Feel free to follow/add me if you want! I am always interested in finding new content to learn about.
+See the sidebar.
