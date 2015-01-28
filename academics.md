@@ -28,7 +28,7 @@ could help.
 
 > **Spectral Gap Scaling of One-Dimensional Quantum Spin Chains**
 
-> Caltech Perpall Speaking Competition:  [[iTunes](https://itunes.apple.com/us/podcast/spectral-gap-scaling-one-dimensional/id422627736?i=109862222&mt=2) 
+> Caltech Perpall Speaking Competition:  [[iTunes](https://itunes.apple.com/us/podcast/spectral-gap-scaling-one-dimensional/id422627736?i=109862222&mt=2) [YouTube](http://youtu.be/cn7IW7qTBCs)
 | [Slide Deck](https://drive.google.com/file/d/0ByuLKbIlGFIiaWNtQ05HMmZsQTQ/view?usp=sharing)]
 
 > (Or, through iTunes store, search for Caltech, then navigate to _SURF Presentations_.)
