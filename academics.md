@@ -3,7 +3,7 @@ layout: default
 title: Academics
 subtitle: Pedagogy, Posters, Presentations, and Publications
 ---
-
+You can check out my citation count on my [Google scholar profile](https://scholar.google.com/citations?hl=en&user=FolEG3MAAAAJ)
 Publications
 =============
 (No publications as of yet....)
