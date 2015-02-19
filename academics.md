@@ -13,14 +13,11 @@ Presentations
 Below is a list of some of the talks I have given. If possible, I have provided links to a screencast or video. At the very least I strive to provide a copy of the slide deck used.
 
 30 October 2014  
-> **Statistical Inference in Quantum Tomography: Uses of Hypothesis Testing and Model Selection**
+> **Statistical Inference in Quantum Tomography: Uses of Hypothesis Testing and Information Criteria**
 
 > Candidacy Exam for CQuIC at UNM [[YouTube](https://www.youtube.com/watch?v=GpJ-bbFkgac) | [Slide Deck](https://drive.google.com/file/d/0ByuLKbIlGFIiWUt6c1czVnMxQ2V4djdNaDNEbHhCcmlqb29z/view?usp=sharing)]
 
-> Experimentalists have done an excellent job building and controlling quantum systems. Their techniques are too good, however - they are capable of 
-detecting errors for which we currently have no good theoretical models. I propose to use classical model selection techniques to help theorists build 
-better models. As a toy example, I consider the problem of doing tomography on continuous variable systems and demonstrate model selection techniques 
-could help.
+> Quantum devices with ill-defined/unknown Hilbert space dimension pose problems for quantum tomography, as the size of the matrix to fit as an estimate needs to be determined. We may begin to address this problem using techniques from classical statistical inference. I will present an approach known as the likelihood ratio test and demonstrate an application to continuous-variable systems. This test relies on the null value of the test statistic - that is, the typical value when increasing the Hilbert space dimension provides no advantage to fitting the data. I will show preliminary numerical results indicating the null value is related to the dimension of the boundary of the Hilbert space, not its bulk dimension.
 
 -----------------------
 
@@ -43,7 +40,11 @@ Below are links to various posters I have given. Available in pdf form.
 
 2015 Southwestern Quantum Information and Technology Workshop
 
-> Lost in (Hilbert) Space - Model Selection for Quantum Tomography
+> [Lost in (Hilbert) Space - Model Selection for Quantum Tomography](https://drive.google.com/open?id=0ByuLKbIlGFIiejFnX1ZibHRIb1E&authuser=0)
+
+> Reconstructing the quantum state of a continuous variable system (e.g., an optical mode) using quantum tomography presents a unique problem:  the dimension of its Hilbert space is infinite.  Its density matrix has infinitely many parameters, which cannot all be estimated from finite data.  Brute force reconstruction (e.g., via the Radon transform or deconvolution) produces undesirable overfitting artifacts.  Smoothing is one solution, but has no good theoretical justification. 
+
+> I introduce a statistically well-motivated approach based on model selection and log likelihoods.  Maximum likelihood estimates in a sequence of D-dimensional subspaces (spanned by the first D Fock states) are ranked by their log likelihood. This ranking allows one to find an estimate whose dimension is smaller while simultaneously providing a good fit to data. I apply this method to heterodyne tomography and demonstrate the method can indeed eliminate overfitting by choosing a good dimension (D) in which to reconstruct optical states. 
 
 Pedagogy
 ==========
