@@ -1,0 +1,13 @@
+_site/
+.DS_Store
+._.DS_Store
+CV.pdf
+.__config.yml
+._index.html
+._master.css
+._musings.html
+._tomoindex.html
+._research.html
+._coursesindex.html
+*.png
+*.jpg
