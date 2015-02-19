@@ -1,0 +1,26 @@
+{% capture lvl %}{{ page.url | append:'index.html' | split:'/' | size }}{% endcapture %}
+{% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
+<!-- Specifies the header for the pages -->	
+<div class="pure-menu pure-menu-open">
+<a href="{{relative}}index.html">Home</a>	
+<ul>
+	<li> <a href="{{relative}}about.html">About</a></li>
+	<li> <a href="{{relative}}academics.html">Academics</a></li>
+	<li> <a href="{{relative}}contact.html">Contact</a></li>
+	<li> <a href="{{relative}}musings.html">Musings</a></li>
+	<li> <a href="{{relative}}research.html">Research</a></li>
+</ul>
+</div>
+On the Web:
+<br/>
+<a href="https://plus.google.com/+TScholten/posts" target="_blank" style="text-decoration:none;"><img src="//ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+"/></a>
+<a href="https://twitter.com/Travis_Sch" target="_blank" style="text-decoration:none;"><img src="{{relative}}images/twitter.png" alt="Twitter" style="border:0;width:32px;height:32px;"/></a>
+<a href="https://github.com/Travis-S" target="_blank" style="text-decoration:none;">
+<img src="{{relative}}images/Octocat.jpg" alt="GitHub" style="border:0;width:32px;height:32px;"/></a>
+<a href="http://www.mendeley.com/profiles/travis-s1/"
+target="_blank" style="text-decoration:none;">
+<img src="{{relative}}images/mendeley.jpg" alt="Mendeley" style="border:0;width:32px;height:32px;"/>
+</a>
+<a href="https://www.google.com/calendar/embed?src=travis.scholten%40gmail.com&amp;ctz=America/Denver"
+target="_blank" style="text-decoration:none;">
+<img src="{{relative}}images/calendar.png" alt="Calendar" style="border:0;width:32px;height:32px;"/></a>

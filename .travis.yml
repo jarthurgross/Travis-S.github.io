@@ -1,0 +1,15 @@
+language: ruby
+
+rvm:
+  - "1.9.3"
+
+# Making sure Travis gets the required gems
+before_install:
+    - travis_retry gem install jekyll
+
+# We test simply that Jekyll works correctly.
+script: jekyll build
+
+branches:
+    only:
+        - develop
