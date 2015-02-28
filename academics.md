@@ -12,6 +12,30 @@ Presentations
 ==============
 Below is a list of some of the talks I have given. If possible, I have provided links to a screencast or video. At the very least I strive to provide a copy of the slide deck used.
 
+5 March 2015
+> **Applying Model Selection to Quantum State Tomography: Choosing Hilbert Space Dimension**
+
+> APS March Meeting [YouTube | [Slide Deck](https://drive.google.com/open?id=0ByuLKbIlGFIiZm5yT0prTDRjWDQ&authuser=0)]
+
+> Reconstructing the quantum state of a continuous variable system (e.g., an optical mode) using quantum tomography presents a unique problem:  the dimension of its Hilbert space is infinite.  Its density matrix has infinitely many parameters, which cannot all be estimated from finite data.  Brute force reconstruction (e.g., via the Radon transform or deconvolution) produces undesirable overfitting artifacts.  Smoothing is one solution, but has no good theoretical justification. 
+
+> I introduce a statistically well-motivated approach based on model selection and log likelihoods.  Maximum likelihood estimates in a sequence of D-dimensional subspaces (spanned by the first D Fock states) are ranked by their log likelihood. This ranking allows one to find an estimate whose dimension is smaller while simultaneously providing a good fit to data. I apply this method to heterodyne tomography and demonstrate the method can indeed eliminate overfitting by choosing a good dimension (D) in which to reconstruct optical states. 
+
+-------------------
+
+28 February 2015
+> **Physics for Computation: Using Novel Devices to Solve Hard Problems**
+
+> US-China Young Physicists Forum [YouTube | [Slide Deck](https://drive.google.com/open?id=0ByuLKbIlGFIiaWdfamdhUHBBc28&authuser=0)]
+
+> One of the great promises of quantum computation is to put the quantum world to work solving problems that are believed to be not efficiently tractable on a classical computer. It has been discovered that for some problems, such speedups are possible; the main bottleneck in using these speedups is the non-existence of a full-fledged quantum computer.  Efforts towards constructing one have been hindered by the delicate nature of quantum information - unwanted disturbances can lead to the computer crashing.
+
+> Consequently, there has been much work in developing techniques to build and control devices that, while not as computationally powerful as a quantum computer, can but used to solve simple yet interesting problems. These devices are known as quantum information processors (QIPs).  QIPs could provide a building block for a larger-scale quantum computer, performing a role analogous to arithmetic logical units in classical computers.
+
+> QIPs are built upon a diverse range of physical systems such as superconductors, atomic traps, or photonics. I will review some of the challenges involved in constructing QIPs and discuss their practical potential for changing the way we think of and build computers.
+
+-----------------
+
 30 October 2014  
 > **Statistical Inference in Quantum Tomography: Uses of Hypothesis Testing and Information Criteria**
 
