@@ -26,6 +26,7 @@ others to use tools and workflows developed for/by GitHub users to get more/bett
 
 Research Interests
 ==========
+Links to my talks and presentations are available on [this page]({{ site.url }}/academics.html)
 
 ** Quantum Information Theory and Statistical Inference
 > Right now, I am mostly thinking about the use of _model selection_ criteria to assist experimentalists in the construction of quantum information 

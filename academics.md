@@ -4,12 +4,13 @@ title: Academics
 subtitle: Pedagogy, Posters, Presentations, and Publications
 ---
 You can check out my citation count on my [Google scholar profile](https://scholar.google.com/citations?hl=en&user=FolEG3MAAAAJ)
-Publications
-=============
+
+#Publications
+
 (No publications as of yet....)
 
-Presentations
-==============
+#Presentations
+
 Below is a list of some of the talks I have given. If possible, I have provided links to a screencast or video. At the very least I strive to provide a copy of the slide deck used.
 
 5 March 2015
@@ -58,8 +59,8 @@ Below is a list of some of the talks I have given. If possible, I have provided 
 energy gap within the system. It is not know whether an adiabatic quantum computer built out of spin 1/2 particles on 1 dimensional ring has energy gaps 
 which close exponentially quickly in the system size. I present a way to investigate this problem numerically.
 
-Posters
-========
+#Posters
+
 Below are links to various posters I have given. Available in pdf form.
 
 2015 Southwestern Quantum Information and Technology Workshop
