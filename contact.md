@@ -5,11 +5,11 @@ subtitle: Getting Ahold of Me
 ---
 **Email**
 
-The best address to use is travisscholten %at% gmail %dot% com. Alternatively, my academic email address is tscholten %at% unm %dot% edu.
+The best address to use is travisscholten at gmail dot com. Alternatively, my academic email address is tscholten at unm dot edu.
 
 **Phone**
 
-The best number is (605) 956-3141 (Google Voice).
+The best number is (6 oh 5) 956-3 one 4 one (Google Voice).
 
 **Mailing Address**
 
