@@ -2,7 +2,7 @@
 layout: default
 title: "Failure to Govern"
 date: 2013-09-03
-updated: 2013-09-03
+updated: 2013-09-04
 ---
 Amid all the rancor in the media regarding President Obama's tendencies to hit the links and go on speaking tours, one aspect of his and Congress' governance does stand out:  they go through the motions of governing, without actually doing so. It is akin to a child who, unsure of how to be an adult, displays behaviors adults engage in, but who lacks the cognitive awareness and context of what it means to be an adult. Similarly, we elect our leaders to actually lead, to resolve difficult problems, to rule the people - yet instead, we find ourselves with a bunch of play-actors who do everything leaders are suppose to do, but fail to accomplish anything.
 

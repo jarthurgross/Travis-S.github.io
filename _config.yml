@@ -10,7 +10,8 @@ destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
 data_source: ./_data
-collections: null
+collections:
+- resumecards
 
 # Handling Reading
 safe:         false
