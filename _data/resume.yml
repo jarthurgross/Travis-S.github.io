@@ -1,0 +1,21 @@
+# IMPORTANT: Set this to false.
+demo: true
+
+# Theme customization is done on this file instead of _config.yml so that
+# you don't have to restart Jekyll to see changes.
+
+photo: ""
+name: Travis Scholten
+copy:  Doing science on small things, hopefully with big results.
+
+# Color scheme based on http://www.materialui.co/colors.
+# Possible values:
+# - default
+# - red
+# - pink
+# - brown
+# - blue
+# - purple
+# - teal
+# - green
+color: default
