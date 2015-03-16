@@ -16,7 +16,7 @@ Below is a list of some of the talks I have given. If possible, I have provided 
 5 March 2015
 > **Applying Model Selection to Quantum State Tomography: Choosing Hilbert Space Dimension**
 
-> APS March Meeting [YouTube | [Slide Deck](https://drive.google.com/open?id=0ByuLKbIlGFIiZm5yT0prTDRjWDQ&authuser=0)]
+> APS March Meeting [[YouTube](http://youtu.be/_31FztfVyZA) | [Slide Deck](https://drive.google.com/open?id=0ByuLKbIlGFIiZm5yT0prTDRjWDQ&authuser=0)]
 
 > Reconstructing the quantum state of a continuous variable system (e.g., an optical mode) using quantum tomography presents a unique problem:  the dimension of its Hilbert space is infinite.  Its density matrix has infinitely many parameters, which cannot all be estimated from finite data.  Brute force reconstruction (e.g., via the Radon transform or deconvolution) produces undesirable overfitting artifacts.  Smoothing is one solution, but has no good theoretical justification. 
 
