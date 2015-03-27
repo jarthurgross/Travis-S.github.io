@@ -8,4 +8,4 @@ In the process of setting up this site, I have been learning how to write HTML a
 
 Should you wish to provide feedback on my page, or show me know something cool to read, or just want to ask me about my work, feel free to reach me via email. Use the [contact](contact.html) page for the address.
 
-Copies of my [Resume](https://drive.google.com/file/d/0ByuLKbIlGFIiYUdvSW9peXk1NDQ/view?usp=sharing)  and [CV](https://app.box.com/s/57tiv08uoem1aai2ow4f) are available in pdf form.
+Copies of my [Resume](https://drive.google.com/file/d/0ByuLKbIlGFIiYUdvSW9peXk1NDQ/view?usp=sharing)  and [CV](https://drive.google.com/file/d/0ByuLKbIlGFIiSURad1BnQm5pdDAyakVJakZBVnpYcnYzODFn/view?usp=sharing) are available in pdf form.
