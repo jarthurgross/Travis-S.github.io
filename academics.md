@@ -13,6 +13,15 @@ You can check out my citation count on my [Google scholar profile](https://schol
 
 Below is a list of some of the talks I have given. If possible, I have provided links to a screencast or video. At the very least I strive to provide a copy of the slide deck used.
 
+24 April 2015
+> **Look Out Below! Computing on the Small Scale**
+
+> University of New Mexico Shared Knowledge Conference [[YouTube] | [Slide Deck]]
+
+> We have witnessed in recent decades the dramatic decrease in the size of computers - from desktops to laptops, to smartphones and smartwatches, computing power and technology has gotten smaller and smaller. What are some of the challenges we face in building tiny devices? How can we overcome them?  I will discuss one popular idea - using atoms themselves as the basic building blocks of a "quantum computer". While we probably will never witness the genesis of a "quantum Macbook", we may see the use of quantum information processors to solve interesting and (currently) difficult problems.
+
+-----------------------
+
 5 March 2015
 > **Applying Model Selection to Quantum State Tomography: Choosing Hilbert Space Dimension**
 
@@ -27,7 +36,7 @@ Below is a list of some of the talks I have given. If possible, I have provided 
 28 February 2015
 > **Physics for Computation: Using Novel Devices to Solve Hard Problems**
 
-> US-China Young Physicists Forum [YouTube | [Slide Deck](https://drive.google.com/open?id=0ByuLKbIlGFIiaWdfamdhUHBBc28&authuser=0)]
+> US-China Young Physicists Forum [[Slide Deck](https://drive.google.com/open?id=0ByuLKbIlGFIiaWdfamdhUHBBc28&authuser=0)]
 
 > One of the great promises of quantum computation is to put the quantum world to work solving problems that are believed to be not efficiently tractable on a classical computer. It has been discovered that for some problems, such speedups are possible; the main bottleneck in using these speedups is the non-existence of a full-fledged quantum computer.  Efforts towards constructing one have been hindered by the delicate nature of quantum information - unwanted disturbances can lead to the computer crashing.
 
