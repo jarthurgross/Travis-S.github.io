@@ -4,7 +4,7 @@ title: About
 subtitle: Nuts and Bolts
 ---
 
-#Background#
+#About Me#
 
 *Ancient History*
 
@@ -21,7 +21,10 @@ This site is the blend of a few frameworks for web development. I use <a href="h
 the actual site content, I write up the pages in markdown and use [Jekyll](http://jekyllrb.com/) to output HTML pages. In order to keep the version(s) of 
 the site correct, and thereby make it easy to make changes, I use [git](http://www.git-scm.com/). 
 
-The creative content of this page is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+A special thank you is in order to [Elle Kasai](http://ellekasai.com/) who wrote the original [resumecards scripts](https://github.com/ellekasai/resumecards)
+which I use on my [Resume](resume.html) page.
+
+The creative content of this site is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
 To satisfy the licensing requirements of Pure, please see their [license](https://github.com/yahoo/pure/blob/master/LICENSE.md).
 
