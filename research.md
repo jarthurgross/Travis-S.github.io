@@ -38,7 +38,7 @@ in Python for the purposes of numerical investigations.
 quantum) to say something meaningful about the physical world around us? Or are we playing with a 'chicken and egg' type problem here?
 
 **Finance and Economics**
-> I have a keen interest in monetary theory and policy. It is absurd to me that I can go to my bank and use its services all the while not knowning what 
+> I have a keen interest in monetary theory and policy. It is absurd to me that I can go to my bank and use its services all the while not knowing what 
 is going on 'behind the curtain'. In particular, I am interested in understanding how fiat currencies enable economic growth, and would like to 
 understand if a system can be established in which the economy reaches a steady-state value for various economic metrics, and whether such a state is 
 fundamentally incompatible with fiat currency.
