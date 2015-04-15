@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Homepage of Travis Scholten
 ---
 Welcome to my home page. This site contains some information about me, my research, and what I do. Please take a look around, and let me know if you have any questions.
 
