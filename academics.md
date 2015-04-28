@@ -16,7 +16,7 @@ Below is a list of some of the talks I have given. If possible, I have provided 
 24 April 2015
 > **Look Out Below! Computing on the Small Scale**
 
-> University of New Mexico Shared Knowledge Conference [[YouTube] | [Slide Deck](https://drive.google.com/file/d/0ByuLKbIlGFIielBxcWVaUGJDVmM/view?usp=sharing)]
+> University of New Mexico Shared Knowledge Conference [[YouTube](https://youtu.be/72eUtvNhmyU) | [Slide Deck](https://drive.google.com/file/d/0ByuLKbIlGFIielBxcWVaUGJDVmM/view?usp=sharing)]
 
 > We have witnessed in recent decades the dramatic decrease in the size of computers - from desktops to laptops, to smartphones and smartwatches, computing power and technology has gotten smaller and smaller. What are some of the challenges we face in building tiny devices? How can we overcome them?  I will discuss one popular idea - using atoms themselves as the basic building blocks of a "quantum computer". While we probably will never witness the genesis of a "quantum Macbook", we may see the use of quantum information processors to solve interesting and (currently) difficult problems.
 
