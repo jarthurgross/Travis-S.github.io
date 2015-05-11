@@ -4,7 +4,7 @@ title: Home Page of Travis L Scholten
 ---
 Welcome to my home page. This site contains some information about me, my research, and what I do. Please take a look around, and let me know if you have any questions.
 
-Copies of my [Resume](https://drive.google.com/file/d/0ByuLKbIlGFIiYUdvSW9peXk1NDQ/view?usp=sharing)  and [CV](https://drive.google.com/file/d/0ByuLKbIlGFIiSURad1BnQm5pdDAyakVJakZBVnpYcnYzODFn/view?usp=sharing) are available in pdf form.
+Copies of my [Resume](https://github.com/Travis-S/Resume/blob/master/macfontresume.pdf)  and [CV](https://github.com/Travis-S/cv/blob/master/CV.pdf) are available in pdf form.
 
 Should you want to check out some of my talks, please see my [Academics](academics.html) page or visit my [YouTube channel](https://www.youtube.com/channel/UCo1RVaq2aqTJMRZGzQa45WQ).
 
