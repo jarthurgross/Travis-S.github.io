@@ -13,7 +13,7 @@ During my first few years at Caltech, I wrote quite a bit of poetry. I have made
 
 In 2011, I took a trip to Swizerland. Here are my [recollections](https://app.box.com/s/0eneuydhs4l65d3818r9) of that trip.
 
-In an attempt to master the nuances of Jekyll, I have collected all the ''posts'' (if you can call them that!) I have written below.
+Various posts/musings are below.
 
 <ul>
 {% for post in site.posts %}
