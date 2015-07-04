@@ -13,60 +13,13 @@ You can check out my citation count on my [Google scholar profile](https://schol
 
 Below is a list of some of the talks I have given. If possible, I have provided links to a screencast or video. At the very least I strive to provide a copy of the slide deck used.
 
-24 April 2015
-> **Look Out Below! Computing on the Small Scale**
-
-> University of New Mexico Shared Knowledge Conference [[YouTube](https://youtu.be/72eUtvNhmyU) | [Slide Deck](https://drive.google.com/file/d/0ByuLKbIlGFIielBxcWVaUGJDVmM/view?usp=sharing)]
-
-> We have witnessed in recent decades the dramatic decrease in the size of computers - from desktops to laptops, to smartphones and smartwatches, computing power and technology has gotten smaller and smaller. What are some of the challenges we face in building tiny devices? How can we overcome them?  I will discuss one popular idea - using atoms themselves as the basic building blocks of a "quantum computer". While we probably will never witness the genesis of a "quantum Macbook", we may see the use of quantum information processors to solve interesting and (currently) difficult problems.
-
------------------------
-
-5 March 2015
-> **Applying Model Selection to Quantum State Tomography: Choosing Hilbert Space Dimension**
-
-> APS March Meeting [[YouTube](http://youtu.be/_31FztfVyZA) | [Slide Deck](https://drive.google.com/open?id=0ByuLKbIlGFIiZm5yT0prTDRjWDQ&authuser=0)]
-
-> Reconstructing the quantum state of a continuous variable system (e.g., an optical mode) using quantum tomography presents a unique problem:  the dimension of its Hilbert space is infinite.  Its density matrix has infinitely many parameters, which cannot all be estimated from finite data.  Brute force reconstruction (e.g., via the Radon transform or deconvolution) produces undesirable overfitting artifacts.  Smoothing is one solution, but has no good theoretical justification. 
-
-> I introduce a statistically well-motivated approach based on model selection and log likelihoods.  Maximum likelihood estimates in a sequence of D-dimensional subspaces (spanned by the first D Fock states) are ranked by their log likelihood. This ranking allows one to find an estimate whose dimension is smaller while simultaneously providing a good fit to data. I apply this method to heterodyne tomography and demonstrate the method can indeed eliminate overfitting by choosing a good dimension (D) in which to reconstruct optical states. 
-
--------------------
-
-28 February 2015
-> **Physics for Computation: Using Novel Devices to Solve Hard Problems**
-
-> US-China Young Physicists Forum [[Slide Deck](https://drive.google.com/open?id=0ByuLKbIlGFIiaWdfamdhUHBBc28&authuser=0)]
-
-> One of the great promises of quantum computation is to put the quantum world to work solving problems that are believed to be not efficiently tractable on a classical computer. It has been discovered that for some problems, such speedups are possible; the main bottleneck in using these speedups is the non-existence of a full-fledged quantum computer.  Efforts towards constructing one have been hindered by the delicate nature of quantum information - unwanted disturbances can lead to the computer crashing.
-
-> Consequently, there has been much work in developing techniques to build and control devices that, while not as computationally powerful as a quantum computer, can but used to solve simple yet interesting problems. These devices are known as quantum information processors (QIPs).  QIPs could provide a building block for a larger-scale quantum computer, performing a role analogous to arithmetic logical units in classical computers.
-
-> QIPs are built upon a diverse range of physical systems such as superconductors, atomic traps, or photonics. I will review some of the challenges involved in constructing QIPs and discuss their practical potential for changing the way we think of and build computers.
-
------------------
-
-30 October 2014  
-> **Statistical Inference in Quantum Tomography: Uses of Hypothesis Testing and Information Criteria**
-
-> Candidacy Exam for CQuIC at UNM [[YouTube](https://www.youtube.com/watch?v=GpJ-bbFkgac) | [Slide Deck](https://drive.google.com/file/d/0ByuLKbIlGFIiWUt6c1czVnMxQ2V4djdNaDNEbHhCcmlqb29z/view?usp=sharing)]
-
-> Quantum devices with ill-defined/unknown Hilbert space dimension pose problems for quantum tomography, as the size of the matrix to fit as an estimate needs to be determined. We may begin to address this problem using techniques from classical statistical inference. I will present an approach known as the likelihood ratio test and demonstrate an application to continuous-variable systems. This test relies on the null value of the test statistic - that is, the typical value when increasing the Hilbert space dimension provides no advantage to fitting the data. I will show preliminary numerical results indicating the null value is related to the dimension of the boundary of the Hilbert space, not its bulk dimension.
-
------------------------
-
-19 January 2012
-
-> **Spectral Gap Scaling of One-Dimensional Quantum Spin Chains**
-
-> Caltech Perpall Speaking Competition:  [[iTunes](https://itunes.apple.com/us/podcast/spectral-gap-scaling-one-dimensional/id422627736?i=109862222&mt=2) [YouTube](http://youtu.be/cn7IW7qTBCs)
-| [Slide Deck](https://drive.google.com/file/d/0ByuLKbIlGFIiaWNtQ05HMmZsQTQ/view?usp=sharing)]
-
-> (Or, through iTunes store, search for Caltech, then navigate to _SURF Presentations_.)
-
-> A quantum computer built on adiabatic principles has an interesting runtime feature - the time it takes for the computation to execute depends on an 
-energy gap within the system. It is not know whether an adiabatic quantum computer built out of spin 1/2 particles on 1 dimensional ring has energy gaps 
-which close exponentially quickly in the system size. I present a way to investigate this problem numerically.
+<ul>
+{% for post in site.posts %}
+    {% if post.type == 'talk' %}
+    <li><span>{{ post.date | date_to_string }}</span> -- <a href="{{relative}}{{post.url | remove_first: '/'}}">{{post.title}} {{post.name}}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
 
 #Posters
 
