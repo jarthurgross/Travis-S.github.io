@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Failure to Govern"
+title: Failure to Govern
+subtitle: Getting What We Deserve?
 date: 2013-09-03
 updated: 2013-09-04
 ---

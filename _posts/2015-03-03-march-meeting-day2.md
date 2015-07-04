@@ -1,7 +1,7 @@
 ---
 layout: default
-title: APS March Meeting - Day 2
-subtitle: 
+title: APS March Meeting Day 2
+subtitle: More Talks 
 date: 2015-03-03
 author: Travis Scholten
 ---

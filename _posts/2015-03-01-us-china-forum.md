@@ -2,7 +2,7 @@
 layout: default
 title: US-China Young Physicists Forum
 subtitle: International Exposure
-date: 2015-04-10
+date: 2015-03-01
 author: Travis Scholten
 ---
 **A Pleasant Surprise**

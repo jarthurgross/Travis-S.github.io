@@ -1,6 +1,6 @@
 ---
 layout: default
-title: APS March Meeting - Day 5
+title: APS March Meeting Day 5
 subtitle: Wrapping Up
 date: 2015-05-26
 author: Travis Scholten

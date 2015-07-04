@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Programming as a Physicist"
+title: Programming as a Physicist
+subtitle: Initial Thoughts
 date: 2014-08-11
 author: Travis Scholten
 ---
