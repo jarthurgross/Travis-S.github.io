@@ -18,7 +18,7 @@ Various posts/musings are below.
 <ul>
 {% for post in site.posts %}
     {% if post.type != 'talk' %}
-    <li><span>{{ post.date | date_to_string }}</span> -- <a href="{{relative}}{{post.url | remove_first: '/'}}">{{post.title}} : {{post.subtitle}} {{post.name}}</a></li>
+    <span>{{ post.date | date_to_string }}</span> -- <a href="{{relative}}{{post.url | remove_first: '/'}}">{{post.title}} : {{post.subtitle}} {{post.name}}</a><br/><br/>
     {% endif %}
 {% endfor %}
 </ul>
