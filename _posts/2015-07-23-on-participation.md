@@ -10,7 +10,7 @@ author: Travis Scholten
 
 In addition to the work I do as a graduate student at UNM and a student intern at Sandia, I also am involved with the [GPSA](http://gpsa.unm.edu/), the student government for graduate and professional students at UNM. Doing so has made me realize the importance of _participation_, in any capacity, in getting things done and solving problems. Too often we see something which could be fixed and only complain about it. (Though identifying the best things to fix is a skill in and of itself.) Rare is the person who takes the time to figure out if there is someone in authority they could bring this problem to. Rarer still is the person who becomes that authority.
 
-I think a big reason why people don't go from identifying a problem to helping solve it is they think they lack the skills necessary to "make an impact". On the whole, this is probably false, for two reasons I can see: 
+I think a big reason why people don't go from identifying a problem to helping solve it is they think they lack the skills necessary to "make an impact". On the whole, this is probably false, for at least two reasons: 
 
 First, they may have skills which are necessary to making that impact, but those skills are not what they think make an impact. For instance, not everyone gets to be the leader, going up on stage and giving speeches. There are many people behind the scenes coordinating and helping make sure things go smoothly. Those people help make an impact, but in a less splashy sort of way. Volunteers on grassroots campaigns make an impact, even if it involves stuffing envelopes or making telephone calls. 
 
