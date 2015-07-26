@@ -5,8 +5,7 @@ subtitle: Wanderings and Ramblings
 ---
 
 As part of my undergraduate experience at Caltech, I did some [blogging](http://caltech.typepad.com/caltech_as_it_happens/strong-minds-healthy-bodies/) for 
-the [Admissions Office](http://admissions.caltech.edu/). So perhaps there is still some part of me which wishes to improve my writing and communications 
-skills. If anything, you are more likely to find content posted on my [Google Plus Profile](http://www.google.com/+TScholten).
+the [Admissions Office](http://admissions.caltech.edu/). That seems to have gotten me started down this path.
 
 During my first few years at Caltech, I wrote quite a bit of poetry. I have made a couple of collections available online. They are entitled [A Long Walk]
 (https://app.box.com/s/c87krb40j0mlqirykpa6) and [Summer Musings](https://app.box.com/s/tctkl613kvn42uc9givp).
