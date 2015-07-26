@@ -1,5 +1,5 @@
 body {
-    color: #777;
+    color: black;
 }
 
 .pure-img-responsive {
@@ -48,6 +48,11 @@ The content `<div>` is where all your content goes.
     max-width: 800px;
     margin-bottom: 50px;
     line-height: 1.6em;
+    font-size: 18px;
+}
+
+.content a{
+    color: #6b4423;
 }
 
 .header {
@@ -60,13 +65,14 @@ The content `<div>` is where all your content goes.
     .header h1 {
         margin: 0.2em 0;
         font-size: 3em;
-        font-weight: 300;
+        font-weight: 500;
+        color: #bb1515;
     }
      .header h2 {
-        font-weight: 300;
-        color: #ccc;
+        font-weight: 400;
         padding: 0;
         margin-top: 0;
+        color: #2a334f;
     }
 
 .content-subhead {
@@ -77,6 +83,7 @@ The content `<div>` is where all your content goes.
 
 
 
+
 /*
 The `#menu` `<div>` is the parent `<div>` that contains the `.pure-menu` that
 appears on the left side of the page.
@@ -84,13 +91,13 @@ appears on the left side of the page.
 
 #menu {
     margin-left: -150px; /* "#menu" width */
-    width: 150px;
+    width: 125px;
     position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
     z-index: 1000; /* so the menu or its navicon stays above all content */
-    background: #191818;
+    background: #2a334f;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
 }
@@ -98,7 +105,7 @@ appears on the left side of the page.
     All anchors inside the menu should be styled like this.
     */
     #menu a {
-        color: #999;
+        color: #ffffea;
         border: none;
         padding: 0.6em 0 0.6em 0.6em;
     }
