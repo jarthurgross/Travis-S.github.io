@@ -1,14 +1,8 @@
 ---
 layout: default
 title: Academics
-subtitle: Pedagogy, Posters, Presentations, and Publications
+subtitle: Pedagogy, Posters, and Presentations
 ---
-You can check out my citation count on my [Google scholar profile](https://scholar.google.com/citations?hl=en&user=FolEG3MAAAAJ)
-
-#Publications
-
-(No publications as of yet....)
-
 #Presentations
 
 Below is a list of some of the talks I have given. If possible, I have provided links to a screencast or video. At the very least I strive to provide a copy of the slide deck used.
