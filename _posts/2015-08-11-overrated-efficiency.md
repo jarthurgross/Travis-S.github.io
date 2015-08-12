@@ -11,7 +11,7 @@ success/personal fulfillment/enlightenment. These days I am not so sure. Two
 events have thrown into question whether the pursuit of efficiency is really
 worth it: the rise of superstores and the always on workweek.
 
-**Efficiency in Retail Sales: The Superstore**
+#Efficiency in Retail Sales: Superstores#
 
 Growing up, my family shopped at stores like Target, JCPenny, and a regional
 grocer. Sunday afternoons were often spent going from location to location,
@@ -19,8 +19,8 @@ picking up a few things here or there. (My mother *did* teach me one should shop
 for groceries last, lest they get ruined in the car.) Admittedly, this whole
 process was inefficient.
 
-Nowdays, it is possible to go into a Target or Walmart superstore and do one-
-stop shopping. (I hope the groceries are still picked up at the end of the
+Nowdays, it is possible to go into a Target or Walmart superstore and do one-stop shopping.
+(I hope the groceries are still picked up at the end of the
 trip.) Much more efficient than the previous arrangement, I will grant you.
 
 However, I wonder what we have lost by doing so. Nevermind the inevitable
@@ -39,16 +39,15 @@ Now, this is not to say that the typical staff member at Target or Walmart is
 useless. Not at all. But they are less useful than a dedicated staff member in
 one department or another, one who works exclusively with one set of products.
 
->> Efficiency as practiced encourages the commodification of ideas and pre-
->> scripted routines. It discourages spontaneous, and extemporaneous, interaction.
+>> Efficiency as practiced encourages the commodification of ideas and pre-scripted routines. It discourages spontaneous, and extemporaneous, interaction.
 
 It also subtly implies that those who question it are traitors to the cause -
 "Do things inefficiently? Are you insane? We're saving people time and money -
-goals worth striving towards, no?" With an argument like that, it becomes
+goals worth striving towards, no?". With an argument like that, it becomes
 impossible to argue against schemes to "improve" efficiency, and becomes ever
 easier to get roped into them.
 
-**Efficiency in Productivity: The Always-On Workweek**
+#Efficiency in Productivity: The Always-On Workweek#
 
 Consider the modern workweek. Ostensibly running from 0900 to 1700, five days a
 week, it now seems to run twenty-four hours a day, seven days a week, three hundred sixty five days a year.
@@ -61,7 +60,7 @@ Of course, if there is a big project due soon, or an impending deadline, then by
 all means, let us work as much as is required to get the thing done. However, not
 every deadline is urgent, and not every project is so important that working
 nonstop is a good idea. (Unless you really like that sort of thing. Here's
-looking at you, [Elon Musk](link to article about elon's work habits)).
+looking at you, Elon Musk!).
 
 >> Efficiency as practiced encourages the commodification of people and their
 >> time. It discourages flexibile, and necessary, improvisation.
@@ -73,7 +72,7 @@ deadlines. Other times, it encourages students to stay in the office past their
 peak productivity hours, putting in time simply for the appearance of putting in
 work.
 
-**Efficiency: The Bane of Creativity?**
+#Efficiency: The Bane of Creativity?#
 
 Efficiency has brought about remarkable gains in standards of living. We can
 travel the globe by plane much faster than by boat. You can hail an Uber a the
@@ -83,7 +82,7 @@ are what make the modern world possible.
 
 What have we given up to do so? Probably many things, but one which sticks out
 in my mind is creativity. There is an entire class of people for whom we do not
-expect efficiency - the artisians and craftsmen. We value them precisely because what they
+expect efficiency, namely, artisians and craftsmen. We value them precisely because what they
 provide  is one of a kind, unique. We understand the inanity in demanding Yo-Yo
 Ma produce a new cello piece in a week. We do not demand Haruki
 Murakami write another novel in a month. We understand that _creativity takes time_.
