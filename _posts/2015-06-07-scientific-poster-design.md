@@ -6,7 +6,7 @@ date: 2015-06-07
 author: Travis Scholten
 ---
 
-Recently, [Eddie Lee](http://pages.discovery.wisc.edu/~elee/index.html) posted a link on Twitter about a conference, the 2015 Computational Social Science Summit, where he was giving a poster on [war and peace in a pigtailed
+Recently, [Eddie Lee](http://www.eddielee.co) posted a link on Twitter about a conference, the 2015 Computational Social Science Summit, where he was giving a poster on [war and peace in a pigtailed
 macaque society](http://pages.discovery.wisc.edu/~elee/docs/20150513_NICO.pdf). In taking a look at the poster, I was reminded again of the importance of good design in scientific posters.
 
 **Design as Communication**
