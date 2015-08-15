@@ -6,10 +6,10 @@ date: 2015-03-02
 updated: 2015-07-04
 author: Travis Scholten
 ---
-After attending the US-China Young Physicists forum, I participated in the annual March meeting of the American Physical Society (APS). 
+After attending the [US-China Young Physicists forum]({% post_url 2015-03-01-us-china-forum %}), I participated in the annual March meeting of the American Physical Society (APS). 
 The March meeting is a huge event - there are order 10,000 attendees, and there are many, many parallel sessions of speakers. In fact, the event is so large the APS provides you with the ability to put together your own schedule through their site - it's essentially impossible to keep track of what's going on otherwise!
 
-Photos from this trip are available [here](https://plus.google.com/photos/104928027598375464198/albums/6128117737158948273).
+Photos from this trip are available [here](https://plus.google.com/photos/104928027598375464198/albums/6128117737158948273). The slide deck I presented during the conference can be found [at this link]({% post_url 2015-03-05-aps-march-meeting %}).
 
 **Highlights**
 
