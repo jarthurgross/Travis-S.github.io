@@ -69,18 +69,19 @@ he describes how entrepreneurship can be practiced.
 
 * Service Institution: A "service instititution" can be a governmental agency, non-profit, or NGO.
 Service institutions are characterized by a lack of "profit motive". Further, these institutions
-are judged based on how close they come to attaining essentially unattainable goals, such as
+are judged based on how close they come to achieving essentially unattainable goals, such as
 "eradicating hunger" or "eliminating poverty". Drucker observes this incentivizes
-these institutions not to optimize their delivery, but instead to grow and grow to maximize it.
+these institutions not to optimize their delivery of services, but instead to grow and grow to maximize them.
 As such, these institutions tend to become bloated and inefficient, and are hard to change.
 Instead of holding service institutions to impossible standards, objective, measurable, and rational
-goals should be crafted for these institutions to pursue.
+goals should be crafted for these institutions to pursue. Further, efficiencies can be introduced
+contracting these services out to the private sector via privatization.
 
 * New Ventures: A new venture is characterized by the presence of ideas and potential customers and
 a lack of capital and human infrastructure to bring those ideas to market. New ventures are
 capital intensive and have negative returns while the business is being formed. These
 ventures also suffer from the problem of formalizing management and transitioning from a founders-based
-corporate hierarchy to one where professional managers and boards of directors take control of directing
+corporate hierarchy to one where professional managers and boards of directors take control of running
 the business. Drucker observes that managing this transition can be difficult, and that doing so successfully
 requires founders to look long and hard at themselves and figure out how they can best help the company move
 forward. (Sometimes that involves leaving!)
@@ -101,7 +102,7 @@ developed. Drucker highlights 4 strategies specifically geared towards entrepren
 
 * "Fustest With the Mostest": Be the first to introduce the innovation, and grab up as large a share of the market
 as you can. Gain dominance by virtue of being the largest player. (For instance, the transportation service
-company Uber went from having roughly 9% of the market in 2014 Q1, it [now has 29%](http://www.forbes.com/sites/andrewbender/2015/04/10/ubers-astounding-rise-overtaking-taxis-in-key-markets/) in 2015 Q1.) This strategy is risky in the sense that failure
+company Uber went from having roughly 9% of the market in 2014 Q1 [to 29% in 2015 Q1](http://www.forbes.com/sites/andrewbender/2015/04/10/ubers-astounding-rise-overtaking-taxis-in-key-markets/).) This strategy is risky in the sense that failure
 to become the biggest player means competitors will overtake you in market share and may drive you out entirely.
 
 * "Hit 'Em Where They Ain't": Figure out where competitors are not and go there. Dominate not by sheer size, but by adaptability
@@ -109,7 +110,7 @@ and nimbleness.
 
 * Occupy an "Ecological Niche": Some markets support only a handful of key players. Drucker gives the example of oil well
 blowout preventers. These are highly specialized pieces of equipment, and what is more, the marketplace already has enough manufacturers.
-Hence, the only competition is that which already exists - there's little need to worry about new ventures coming into the market.
+Hence, the only competition is that which already exists - there's little need to worry about new firms joining the market.
 Find an ecological niche and become indispensible. This strategy is substantially less glamorous, and the returns are going to be
 dependent on the market segment being served, but those returns should be fairly dependable and consistent.
 
@@ -124,4 +125,4 @@ what the product is. (For instance, Herman Miller is not a just "chair design an
 
 Drucker's book was a really engaging (and witty!) read, and offers practical advice for those who want to do entrepreneurship. What is more,
 this book is also helpful when read through the lens of career development. If you want to better understand how to manage
-change and be innovative, this book is a good place to start.
+change and be innovative, this book is a great place to start.
