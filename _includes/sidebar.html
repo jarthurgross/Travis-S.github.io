@@ -2,8 +2,8 @@
 {% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}
 <!-- Specifies the header for the pages -->	
 <div class="pure-menu pure-menu-open">
-<a href="{{relative}}index.html">Home</a>	
 <ul>
+    <li><a href="{{relative}}index.html">Home</a></li>   
 	<li> <a href="{{relative}}about.html">About</a></li>
 	<li> <a href="{{relative}}academics.html">Academics</a></li>
 	<li> <a href="{{relative}}contact.html">Contact</a></li>
@@ -12,7 +12,7 @@
     <li> <a href="{{relative}}resume.html">Resume</a></li>
 </ul>
 </div>
-<a href= "{{site.data.social.twitter}}" target="_blank"><i class="fa fa-twitter fa-3x fa-fw" ></i></a><br/>
-<a href="{{site.data.social.github}}" target="_blank"><i class="fa fa-github fa-3x fa-fw"></i></a><br/>
-<a href="{{site.data.social.linkedin}}" target="_blank"><i class="fa fa-linkedin fa-3x fa-fw"></i></a><br/>
-<a href="{{ site.data.social.mendeley }}" target="_blank"><i class="ai ai-mendeley fa-3x fa-fw"></i></a><br/>
+<a href= "{{site.data.social.twitter}}" target="_blank"><i class="fa fa-twitter fa-2x fa-fw" ></i></a><br/>
+<a href="{{site.data.social.github}}" target="_blank"><i class="fa fa-github fa-2x fa-fw"></i></a><br/>
+<a href="{{site.data.social.linkedin}}" target="_blank"><i class="fa fa-linkedin fa-2x fa-fw"></i></a><br/>
+<a href="{{ site.data.social.mendeley }}" target="_blank"><i class="ai ai-mendeley fa-2x fa-fw"></i></a><br/>
